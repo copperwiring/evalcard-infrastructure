@@ -1,3 +1,5 @@
+This repository is now archived. Please see [Every Eval Ever](https://github.com/evaleval/every_eval_ever) instead.
+
 # EvalHub Infrastructure
 
 This repository provides a unified and extensible framework for running and organizing evaluations across multiple LLM evaluation tools such as [`lm-evaluation-harness`](https://github.com/EleutherAI/lm-evaluation-harness), [`HELM`](https://github.com/stanford-crfm/helm), etc.
